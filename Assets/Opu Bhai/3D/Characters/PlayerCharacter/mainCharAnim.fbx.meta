@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: 1d3a9c2c42d2ae644b2b6a8b823fe846
+timeCreated: 1513069686
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back_wheel
+    100002: Bind_Head
+    100004: Bind_HeadTop_End
+    100006: Bind_Hips
+    100008: Bind_Joint_GRP
+    100010: Bind_LeftArm
+    100012: Bind_LeftFoot
+    100014: Bind_LeftForeArm
+    100016: Bind_LeftHand
+    100018: Bind_LeftHandIndex1
+    100020: Bind_LeftHandIndex2
+    100022: Bind_LeftHandIndex3
+    100024: Bind_LeftHandIndex4
+    100026: Bind_LeftHandMiddle1
+    100028: Bind_LeftHandMiddle2
+    100030: Bind_LeftHandMiddle3
+    100032: Bind_LeftHandMiddle4
+    100034: Bind_LeftHandPinky1
+    100036: Bind_LeftHandPinky2
+    100038: Bind_LeftHandPinky3
+    100040: Bind_LeftHandPinky4
+    100042: Bind_LeftHandRing1
+    100044: Bind_LeftHandRing2
+    100046: Bind_LeftHandRing3
+    100048: Bind_LeftHandRing4
+    100050: Bind_LeftHandThumb1
+    100052: Bind_LeftHandThumb2
+    100054: Bind_LeftHandThumb3
+    100056: Bind_LeftHandThumb4
+    100058: Bind_LeftLeg
+    100060: Bind_LeftShoulder
+    100062: Bind_LeftToe_End
+    100064: Bind_LeftToeBase
+    100066: Bind_LeftUpLeg
+    100068: Bind_Neck
+    100070: Bind_RightArm
+    100072: Bind_RightFoot
+    100074: Bind_RightForeArm
+    100076: Bind_RightHand
+    100078: Bind_RightHandIndex1
+    100080: Bind_RightHandIndex2
+    100082: Bind_RightHandIndex3
+    100084: Bind_RightHandIndex4
+    100086: Bind_RightHandMiddle1
+    100088: Bind_RightHandMiddle2
+    100090: Bind_RightHandMiddle3
+    100092: Bind_RightHandMiddle4
+    100094: Bind_RightHandPinky1
+    100096: Bind_RightHandPinky2
+    100098: Bind_RightHandPinky3
+    100100: Bind_RightHandPinky4
+    100102: Bind_RightHandRing1
+    100104: Bind_RightHandRing2
+    100106: Bind_RightHandRing3
+    100108: Bind_RightHandRing4
+    100110: Bind_RightHandThumb1
+    100112: Bind_RightHandThumb2
+    100114: Bind_RightHandThumb3
+    100116: Bind_RightHandThumb4
+    100118: Bind_RightLeg
+    100120: Bind_RightShoulder
+    100122: Bind_RightToe_End
+    100124: Bind_RightToeBase
+    100126: Bind_RightUpLeg
+    100128: Bind_Spine
+    100130: Bind_Spine1
+    100132: Bind_Spine2
+    100134: body
+    100136: Brake
+    100138: Brake_cable
+    100140: Character
+    100142: cycleGrp
+    100144: Disc
+    100146: front_rod
+    100148: Front_wheel
+    100150: Handle
+    100152: handle1
+    100154: handle_support
+    100156: Joint_GRP
+    100158: //RootNode
+    100160: Mesh_GRP
+    100162: Mesh_Mr_Fresh
+    100164: Padel
+    100166: Padel rod
+    100168: Padel.001
+    100170: seat
+    100172: Suspension
+    100174: Suspention cap
+    400000: Back_wheel
+    400002: Bind_Head
+    400004: Bind_HeadTop_End
+    400006: Bind_Hips
+    400008: Bind_Joint_GRP
+    400010: Bind_LeftArm
+    400012: Bind_LeftFoot
+    400014: Bind_LeftForeArm
+    400016: Bind_LeftHand
+    400018: Bind_LeftHandIndex1
+    400020: Bind_LeftHandIndex2
+    400022: Bind_LeftHandIndex3
+    400024: Bind_LeftHandIndex4
+    400026: Bind_LeftHandMiddle1
+    400028: Bind_LeftHandMiddle2
+    400030: Bind_LeftHandMiddle3
+    400032: Bind_LeftHandMiddle4
+    400034: Bind_LeftHandPinky1
+    400036: Bind_LeftHandPinky2
+    400038: Bind_LeftHandPinky3
+    400040: Bind_LeftHandPinky4
+    400042: Bind_LeftHandRing1
+    400044: Bind_LeftHandRing2
+    400046: Bind_LeftHandRing3
+    400048: Bind_LeftHandRing4
+    400050: Bind_LeftHandThumb1
+    400052: Bind_LeftHandThumb2
+    400054: Bind_LeftHandThumb3
+    400056: Bind_LeftHandThumb4
+    400058: Bind_LeftLeg
+    400060: Bind_LeftShoulder
+    400062: Bind_LeftToe_End
+    400064: Bind_LeftToeBase
+    400066: Bind_LeftUpLeg
+    400068: Bind_Neck
+    400070: Bind_RightArm
+    400072: Bind_RightFoot
+    400074: Bind_RightForeArm
+    400076: Bind_RightHand
+    400078: Bind_RightHandIndex1
+    400080: Bind_RightHandIndex2
+    400082: Bind_RightHandIndex3
+    400084: Bind_RightHandIndex4
+    400086: Bind_RightHandMiddle1
+    400088: Bind_RightHandMiddle2
+    400090: Bind_RightHandMiddle3
+    400092: Bind_RightHandMiddle4
+    400094: Bind_RightHandPinky1
+    400096: Bind_RightHandPinky2
+    400098: Bind_RightHandPinky3
+    400100: Bind_RightHandPinky4
+    400102: Bind_RightHandRing1
+    400104: Bind_RightHandRing2
+    400106: Bind_RightHandRing3
+    400108: Bind_RightHandRing4
+    400110: Bind_RightHandThumb1
+    400112: Bind_RightHandThumb2
+    400114: Bind_RightHandThumb3
+    400116: Bind_RightHandThumb4
+    400118: Bind_RightLeg
+    400120: Bind_RightShoulder
+    400122: Bind_RightToe_End
+    400124: Bind_RightToeBase
+    400126: Bind_RightUpLeg
+    400128: Bind_Spine
+    400130: Bind_Spine1
+    400132: Bind_Spine2
+    400134: body
+    400136: Brake
+    400138: Brake_cable
+    400140: Character
+    400142: cycleGrp
+    400144: Disc
+    400146: front_rod
+    400148: Front_wheel
+    400150: Handle
+    400152: handle1
+    400154: handle_support
+    400156: Joint_GRP
+    400158: //RootNode
+    400160: Mesh_GRP
+    400162: Mesh_Mr_Fresh
+    400164: Padel
+    400166: Padel rod
+    400168: Padel.001
+    400170: seat
+    400172: Suspension
+    400174: Suspention cap
+    2300000: Back_wheel
+    2300002: body
+    2300004: Brake
+    2300006: Brake_cable
+    2300008: Disc
+    2300010: front_rod
+    2300012: Front_wheel
+    2300014: handle1
+    2300016: handle_support
+    2300018: Padel
+    2300020: Padel rod
+    2300022: Padel.001
+    2300024: seat
+    2300026: Suspension
+    2300028: Suspention cap
+    3300000: Back_wheel
+    3300002: body
+    3300004: Brake
+    3300006: Brake_cable
+    3300008: Disc
+    3300010: front_rod
+    3300012: Front_wheel
+    3300014: handle1
+    3300016: handle_support
+    3300018: Padel
+    3300020: Padel rod
+    3300022: Padel.001
+    3300024: seat
+    3300026: Suspension
+    3300028: Suspention cap
+    4300000: Mesh_Mr_Fresh
+    4300002: Disc
+    4300004: Front_wheel
+    4300006: Brake
+    4300008: Brake_cable
+    4300010: handle_support
+    4300012: front_rod
+    4300014: Suspention cap
+    4300016: Suspension
+    4300018: handle1
+    4300020: Back_wheel
+    4300022: seat
+    4300024: Padel
+    4300026: Padel.001
+    4300028: Padel rod
+    4300030: body
+    7400000: Forward
+    7400002: Left
+    7400004: Right
+    7400006: StandLeft
+    7400008: StandRight
+    9500000: //RootNode
+    13700000: Mesh_Mr_Fresh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black metal01
+    second: {fileID: 2100000, guid: 2a0c67d1c9661ce43a229f00788bb813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head
+    second: {fileID: 2100000, guid: c7a38feaf903a8f4abe2dd7e36b97656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spoke 01
+    second: {fileID: 2100000, guid: 0fbef3dfed434274da6fdb7a4ffd29c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spoke 02
+    second: {fileID: 2100000, guid: ae6a347366e658441931e39b939cac42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standardmaterial
+    second: {fileID: 2100000, guid: c7a38feaf903a8f4abe2dd7e36b97656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel
+    second: {fileID: 2100000, guid: 344d088dc7020b54491811c066aeb807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: cae575edfe681ee4e9560af5c789eb1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brake
+    second: {fileID: 2100000, guid: 1c45c8cd533418447a88d38e856785e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cable
+    second: {fileID: 2100000, guid: 81460673638190a4eb4feea963be12d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crome
+    second: {fileID: 2100000, guid: 86a3d57f6019c32469d860c3b2b20a19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: globes
+    second: {fileID: 2100000, guid: aac04f8aff5faeb48990cf3cd0568325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand_trnace
+    second: {fileID: 2100000, guid: c7a38feaf903a8f4abe2dd7e36b97656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handle
+    second: {fileID: 2100000, guid: 6165453d95bf9ee41826eba0e325a5b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: 37da83ae071651641864c15022c88051, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic
+    second: {fileID: 2100000, guid: a7200c2a0a251054a93dbaf69f172214, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rim
+    second: {fileID: 2100000, guid: ad27e911ad4a51e4eb6bb66a3f26817b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: bc84d387fe99e9d478872e991c7ed6bb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Forward
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Left
+      takeName: Take 001
+      firstFrame: 21
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Right
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StandLeft
+      takeName: Take 001
+      firstFrame: 66
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StandRight
+      takeName: Take 001
+      firstFrame: 84
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
